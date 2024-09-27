@@ -12,10 +12,16 @@ The designs were created to the following widths:
 ## Colors
 
 - White: hsl(0, 0%, 100%)
+  Hexcode Version: #fff
 
 - Slate 300: hsl(212, 45%, 89%)
+  Hexcode Version: #d6e2f0
+
 - Slate 500: hsl(216, 15%, 48%)
+  Hexcode Version: #7b879d
+
 - Slate 900: hsl(218, 44%, 22%)
+  Hexcode Version: #1f3251
 
 ## Typography
 

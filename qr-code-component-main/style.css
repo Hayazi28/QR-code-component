@@ -4,3 +4,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #d6e2f0;
+}
+
+#qr-container {
+    width: 400px;
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+p {
+    font-size: 15px;
+}
+
