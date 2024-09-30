@@ -1,2 +1,2 @@
 # development
-front end mentor challenge projects (QR code component) will be uploaded into this repository
+front end mentor challenge project (QR code component) will be uploaded into this repository
